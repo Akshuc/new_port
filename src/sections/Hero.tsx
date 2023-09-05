@@ -53,7 +53,7 @@ function Hero() {
       >
         with over 12 years of experience working in the technology and web development industry. I specialize in creating
         highly experienced user interfaces (UI) and user experiences (UX). My current role is at CVS Health, where I have
-        been working for around 3 years, focusing on React front end development. I have developed over number of CVS Health's
+        been working for around 3 years, focusing on React front end development. I have developed over number of CVS Health’s
         web applications, helping to make CVS Health’s patient experience simple and uniform throughout the enterprise. I am 
         experienced in creating complex solutions that meet user needs in a cost-effective manner. My passion is to develop 
         seamless designs that create intuitive customer experiences.
