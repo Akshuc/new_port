@@ -56,7 +56,7 @@ function Hero() {
         been working for around 3 years, focusing on React front end development. I have developed over number of CVS Health's
         web applications, helping to make CVS Health’s patient experience simple and uniform throughout the enterprise. I am 
         experienced in creating complex solutions that meet user needs in a cost-effective manner. My passion is to develop 
-        seamless designs that create intuitive customer experiences at&nbsp;.
+        seamless designs that create intuitive customer experiences.
         <Link href="https://www.cvshealth.com/" target="_blank" className="link">
            CVS Health.
         </Link>
